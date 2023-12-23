@@ -1,0 +1,3 @@
+1. Создаём заголовок <header> с id header-section
+2. Внутри div с классом container
+3. Внутри контейнера div с классом header
